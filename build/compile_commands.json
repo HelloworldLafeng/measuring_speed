@@ -1,0 +1,260 @@
+[
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml.c.o -c /root/activeFlow/llama.cpp/ggml/src/ggml.c",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml.c",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml.c.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml-alloc.c.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-alloc.c",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-alloc.c",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml-alloc.c.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-backend.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-backend.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-backend.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml-backend.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-opt.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-opt.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-opt.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml-opt.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/ggml-base.dir/ggml-threading.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-threading.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-threading.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml-threading.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -o CMakeFiles/ggml-base.dir/ggml-quants.c.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-quants.c",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-quants.c",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/ggml-quants.c.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_base_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/ggml-base.dir/gguf.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/gguf.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/gguf.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-base.dir/gguf.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu.c",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.c.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-aarch64.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-aarch64.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-hbm.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-hbm.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/cc -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu11 -fPIC -Wshadow -Wstrict-prototypes -Wpointer-arith -Wmissing-prototypes -Werror=implicit-int -Werror=implicit-function-declaration -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wdouble-promotion -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-quants.c",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-quants.c.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ggml-cpu-traits.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ggml-cpu-traits.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/amx/amx.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/amx.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/amx/mmq.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/amx/mmq.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/binary-ops.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/binary-ops.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/unary-ops.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/unary-ops.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/vec.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/vec.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/ops.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/ops.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_BUILD -DGGML_BACKEND_SHARED -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU_AARCH64 -DGGML_USE_LLAMAFILE -DGGML_USE_OPENMP -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_cpu_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/.. -I/root/activeFlow/llama.cpp/ggml/src/. -I/root/activeFlow/llama.cpp/ggml/src/ggml-cpu -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -march=native -fopenmp -o CMakeFiles/ggml-cpu.dir/ggml-cpu/llamafile/sgemm.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-cpu/llamafile/sgemm.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-cpu/llamafile/sgemm.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml-cpu.dir/ggml-cpu/llamafile/sgemm.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/ggml/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_BUILD -DGGML_SCHED_MAX_COPIES=4 -DGGML_SHARED -DGGML_USE_CPU -D_GNU_SOURCE -D_XOPEN_SOURCE=600 -Dggml_EXPORTS -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o -c /root/activeFlow/llama.cpp/ggml/src/ggml-backend-reg.cpp",
+  "file": "/root/activeFlow/llama.cpp/ggml/src/ggml-backend-reg.cpp",
+  "output": "llama-build/ggml/src/CMakeFiles/ggml.dir/ggml-backend-reg.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama.cpp.o -c /root/activeFlow/llama.cpp/src/llama.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-adapter.cpp.o -c /root/activeFlow/llama.cpp/src/llama-adapter.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-adapter.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-adapter.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-arch.cpp.o -c /root/activeFlow/llama.cpp/src/llama-arch.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-arch.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-arch.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-batch.cpp.o -c /root/activeFlow/llama.cpp/src/llama-batch.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-batch.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-batch.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-chat.cpp.o -c /root/activeFlow/llama.cpp/src/llama-chat.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-chat.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-chat.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-context.cpp.o -c /root/activeFlow/llama.cpp/src/llama-context.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-context.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-context.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-grammar.cpp.o -c /root/activeFlow/llama.cpp/src/llama-grammar.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-grammar.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-grammar.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-graph.cpp.o -c /root/activeFlow/llama.cpp/src/llama-graph.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-graph.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-graph.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-hparams.cpp.o -c /root/activeFlow/llama.cpp/src/llama-hparams.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-hparams.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-hparams.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-impl.cpp.o -c /root/activeFlow/llama.cpp/src/llama-impl.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-impl.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-impl.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-io.cpp.o -c /root/activeFlow/llama.cpp/src/llama-io.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-io.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-io.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-kv-cache.cpp.o -c /root/activeFlow/llama.cpp/src/llama-kv-cache.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-kv-cache.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-kv-cache.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-memory.cpp.o -c /root/activeFlow/llama.cpp/src/llama-memory.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-memory.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-memory.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-mmap.cpp.o -c /root/activeFlow/llama.cpp/src/llama-mmap.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-mmap.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-mmap.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-model-loader.cpp.o -c /root/activeFlow/llama.cpp/src/llama-model-loader.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-model-loader.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-model-loader.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-model-saver.cpp.o -c /root/activeFlow/llama.cpp/src/llama-model-saver.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-model-saver.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-model-saver.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-model.cpp.o -c /root/activeFlow/llama.cpp/src/llama-model.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-model.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-model.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-quant.cpp.o -c /root/activeFlow/llama.cpp/src/llama-quant.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-quant.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-quant.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-sampling.cpp.o -c /root/activeFlow/llama.cpp/src/llama-sampling.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-sampling.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-sampling.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/llama-vocab.cpp.o -c /root/activeFlow/llama.cpp/src/llama-vocab.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/llama-vocab.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/llama-vocab.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/unicode-data.cpp.o -c /root/activeFlow/llama.cpp/src/unicode-data.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/unicode-data.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/unicode-data.cpp.o"
+},
+{
+  "directory": "/root/activeFlow/measure_loading_speed/measuring_speed/build/llama-build/src",
+  "command": "/usr/bin/c++ -DGGML_BACKEND_SHARED -DGGML_SHARED -DGGML_USE_CPU -DLLAMA_BUILD -DLLAMA_SHARED -Dllama_EXPORTS -I/root/activeFlow/llama.cpp/src/. -I/root/activeFlow/llama.cpp/src/../include -I/root/activeFlow/llama.cpp/ggml/src/../include -O3 -DNDEBUG -std=gnu++17 -fPIC -Wmissing-declarations -Wmissing-noreturn -Wall -Wextra -Wpedantic -Wcast-qual -Wno-unused-function -Wno-array-bounds -Wextra-semi -o CMakeFiles/llama.dir/unicode.cpp.o -c /root/activeFlow/llama.cpp/src/unicode.cpp",
+  "file": "/root/activeFlow/llama.cpp/src/unicode.cpp",
+  "output": "llama-build/src/CMakeFiles/llama.dir/unicode.cpp.o"
+}
+]

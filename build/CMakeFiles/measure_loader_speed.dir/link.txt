@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/measure_loader_speed.dir/main.cpp.o CMakeFiles/measure_loader_speed.dir/loader/load_model.cpp.o -o bin/measure_loader_speed  -Wl,-rpath,/root/activeFlow/measure_loading_speed/measuring_speed/build/bin bin/libllama.so bin/libggml.so bin/libggml-cpu.so bin/libggml-base.so
